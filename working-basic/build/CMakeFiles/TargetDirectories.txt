@@ -1,0 +1,8 @@
+D:/code/hi-speed_stream_processing_for_ai_mini_devices/build/CMakeFiles/ALL_BUILD.dir
+D:/code/hi-speed_stream_processing_for_ai_mini_devices/build/CMakeFiles/ZERO_CHECK.dir
+D:/code/hi-speed_stream_processing_for_ai_mini_devices/build/compression_prototype/CMakeFiles/kissfft.dir
+D:/code/hi-speed_stream_processing_for_ai_mini_devices/build/compression_prototype/CMakeFiles/wav_io.dir
+D:/code/hi-speed_stream_processing_for_ai_mini_devices/build/compression_prototype/CMakeFiles/encoder.dir
+D:/code/hi-speed_stream_processing_for_ai_mini_devices/build/compression_prototype/CMakeFiles/decoder.dir
+D:/code/hi-speed_stream_processing_for_ai_mini_devices/build/compression_prototype/CMakeFiles/validate.dir
+D:/code/hi-speed_stream_processing_for_ai_mini_devices/build/compression_prototype/CMakeFiles/ALL_BUILD.dir

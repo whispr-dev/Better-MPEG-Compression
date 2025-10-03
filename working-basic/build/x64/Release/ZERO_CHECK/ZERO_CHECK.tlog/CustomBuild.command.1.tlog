@@ -1,0 +1,10 @@
+^D:\CODE\HI-SPEED_STREAM_PROCESSING_FOR_AI_MINI_DEVICES\BUILD\CMAKEFILES\3A681C536A249D2B8935093236D063B5\GENERATE.STAMP.RULE
+setlocal
+C:\msys64\mingw64\bin\cmake.exe -SD:/code/hi-speed_stream_processing_for_ai_mini_devices -BD:/code/hi-speed_stream_processing_for_ai_mini_devices/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/code/hi-speed_stream_processing_for_ai_mini_devices/build/hi_speed_stream_processing_for_ai_mini_devices.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

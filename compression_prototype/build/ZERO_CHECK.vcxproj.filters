@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\code\Better-MPEG-Compression\compression_prototype\build\CMakeFiles\9fe940b4b3892e3d7f73088a51c266ef\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9E4297B6-5FCA-3939-9466-35EC0D771865}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

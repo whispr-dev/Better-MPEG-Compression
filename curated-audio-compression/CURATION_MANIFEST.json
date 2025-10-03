@@ -1,0 +1,633 @@
+{
+  "source_archive": "hi-speed_stream_processing_for_ai_mini_devices.zip",
+  "total_files_scanned": 113,
+  "selected_count": 73,
+  "notes": "Heuristic selection for audio compression / novel techniques / delta compression. Threshold score>=2.",
+  "files": [
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/delta_compression_of_convol_4d.cpp",
+      "size_bytes": 42758,
+      "score": 11,
+      "reasons": [
+        "fname:compress",
+        "fname:delta",
+        "path:compression",
+        "path:delta",
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/delta_compression_of_convol_4d.cpp",
+      "size_bytes": 42758,
+      "score": 11,
+      "reasons": [
+        "fname:compress",
+        "fname:delta",
+        "path:compression",
+        "path:delta",
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/audio_morphing_i.txt",
+      "size_bytes": 23632,
+      "score": 8,
+      "reasons": [
+        "fname:audio",
+        "path:audio",
+        "content:audio,compression,lpc,quantiz,residual"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/g-petey_w-delta.txt",
+      "size_bytes": 42766,
+      "score": 8,
+      "reasons": [
+        "fname:delta",
+        "path:delta",
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/audio_morphing_i.txt",
+      "size_bytes": 23632,
+      "score": 8,
+      "reasons": [
+        "fname:audio",
+        "path:audio",
+        "content:audio,compression,lpc,quantiz,residual"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/g-petey_w-delta.txt",
+      "size_bytes": 42766,
+      "score": 8,
+      "reasons": [
+        "fname:delta",
+        "path:delta",
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/g-petey_got_me_morphin.txt",
+      "size_bytes": 242353,
+      "score": 7,
+      "reasons": [
+        "content:audio,compression,delta,fft,huffman,pcm,quantiz"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/optimization.txt",
+      "size_bytes": 148059,
+      "score": 7,
+      "reasons": [
+        "content:audio,compression,dct,delta,entropy,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/g-petey_got_me_morphin.txt",
+      "size_bytes": 242353,
+      "score": 7,
+      "reasons": [
+        "content:audio,compression,delta,fft,huffman,pcm,quantiz"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/optimization.txt",
+      "size_bytes": 148059,
+      "score": 7,
+      "reasons": [
+        "content:audio,compression,dct,delta,entropy,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/_exp_i_ii_iii.txt",
+      "size_bytes": 72757,
+      "score": 6,
+      "reasons": [
+        "content:audio,compression,delta,entropy,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/enhanced_feature_extract.cpp",
+      "size_bytes": 86295,
+      "score": 6,
+      "reasons": [
+        "content:audio,compression,dct,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/initial_input_split.txt",
+      "size_bytes": 59125,
+      "score": 6,
+      "reasons": [
+        "content:audio,compression,delta,entropy,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/w_validation.txt",
+      "size_bytes": 95440,
+      "score": 6,
+      "reasons": [
+        "content:audio,compression,delta,entropy,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/_exp_i_ii_iii.txt",
+      "size_bytes": 72757,
+      "score": 6,
+      "reasons": [
+        "content:audio,compression,delta,entropy,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/enhanced_feature_extract.cpp",
+      "size_bytes": 86295,
+      "score": 6,
+      "reasons": [
+        "content:audio,compression,dct,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/initial_input_split.txt",
+      "size_bytes": 59125,
+      "score": 6,
+      "reasons": [
+        "content:audio,compression,delta,entropy,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/w_validation.txt",
+      "size_bytes": 95440,
+      "score": 6,
+      "reasons": [
+        "content:audio,compression,delta,entropy,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/convolve_audio.cpp",
+      "size_bytes": 14149,
+      "score": 5,
+      "reasons": [
+        "fname:audio",
+        "path:audio",
+        "content:fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/datastream_w_embed.txt",
+      "size_bytes": 73219,
+      "score": 5,
+      "reasons": [
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/final_neon_optimizations.txt",
+      "size_bytes": 70676,
+      "score": 5,
+      "reasons": [
+        "content:audio,compression,dct,delta,fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/initial_input_split.cpp",
+      "size_bytes": 43592,
+      "score": 5,
+      "reasons": [
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/modules_i_ii_iii.cpp",
+      "size_bytes": 50193,
+      "score": 5,
+      "reasons": [
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/w_validation.cpp",
+      "size_bytes": 69360,
+      "score": 5,
+      "reasons": [
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/with_header_info_embedded.cpp",
+      "size_bytes": 54829,
+      "score": 5,
+      "reasons": [
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/convolve_audio_neon.cpp",
+      "size_bytes": 19428,
+      "score": 5,
+      "reasons": [
+        "fname:audio",
+        "path:audio",
+        "content:fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/convolve_audio.cpp",
+      "size_bytes": 14149,
+      "score": 5,
+      "reasons": [
+        "fname:audio",
+        "path:audio",
+        "content:fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/convolve_audio_neon.cpp",
+      "size_bytes": 19428,
+      "score": 5,
+      "reasons": [
+        "fname:audio",
+        "path:audio",
+        "content:fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/datastream_w_embed.txt",
+      "size_bytes": 73219,
+      "score": 5,
+      "reasons": [
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/final_neon_optimizations.txt",
+      "size_bytes": 70676,
+      "score": 5,
+      "reasons": [
+        "content:audio,compression,dct,delta,fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/initial_input_split.cpp",
+      "size_bytes": 43592,
+      "score": 5,
+      "reasons": [
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/modules_i_ii_iii.cpp",
+      "size_bytes": 50193,
+      "score": 5,
+      "reasons": [
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/w_validation.cpp",
+      "size_bytes": 69360,
+      "score": 5,
+      "reasons": [
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/with_header_info_embedded.cpp",
+      "size_bytes": 54829,
+      "score": 5,
+      "reasons": [
+        "content:audio,compression,delta,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/temp/claude_to_g-petey_trans.txt",
+      "size_bytes": 37047,
+      "score": 5,
+      "reasons": [
+        "content:audio,codec,compression,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/benchmarking/benchmarking_3.txt",
+      "size_bytes": 2491,
+      "score": 4,
+      "reasons": [
+        "content:audio,codec,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/how_to_separate_files.txt",
+      "size_bytes": 35560,
+      "score": 4,
+      "reasons": [
+        "content:audio,dct,delta,fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/module_ii.txt",
+      "size_bytes": 49059,
+      "score": 4,
+      "reasons": [
+        "content:audio,compression,delta,fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/new_main_loop.cpp",
+      "size_bytes": 22402,
+      "score": 4,
+      "reasons": [
+        "content:audio,compression,delta,fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/olds/AudioIO_old.cpp",
+      "size_bytes": 2246,
+      "score": 4,
+      "reasons": [
+        "fname:audio",
+        "path:audio",
+        "content:audio"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/olds/AudioIO_oldii.cpp",
+      "size_bytes": 3607,
+      "score": 4,
+      "reasons": [
+        "fname:audio",
+        "path:audio",
+        "content:audio"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/olds/AudioIO_oldiii.cpp",
+      "size_bytes": 3636,
+      "score": 4,
+      "reasons": [
+        "fname:audio",
+        "path:audio",
+        "content:audio"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/how_to_separate_files.txt",
+      "size_bytes": 35560,
+      "score": 4,
+      "reasons": [
+        "content:audio,dct,delta,fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/module_ii.txt",
+      "size_bytes": 49059,
+      "score": 4,
+      "reasons": [
+        "content:audio,compression,delta,fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/new_main_loop.cpp",
+      "size_bytes": 22402,
+      "score": 4,
+      "reasons": [
+        "content:audio,compression,delta,fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/benchmarking/benchmarking_4.txt",
+      "size_bytes": 12345,
+      "score": 3,
+      "reasons": [
+        "content:audio,codec,compression"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/neon_4d_verr.txt",
+      "size_bytes": 46963,
+      "score": 3,
+      "reasons": [
+        "content:audio,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/neon_and_4d_data_stream_convolution.cpp",
+      "size_bytes": 33676,
+      "score": 3,
+      "reasons": [
+        "content:audio,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/include/AudioIO.h",
+      "size_bytes": 408,
+      "score": 3,
+      "reasons": [
+        "fname:audio",
+        "path:audio"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/include/DeltaProcessor.h",
+      "size_bytes": 891,
+      "score": 3,
+      "reasons": [
+        "fname:delta",
+        "path:delta"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/olds/include_old/AudioIO.h",
+      "size_bytes": 635,
+      "score": 3,
+      "reasons": [
+        "fname:audio",
+        "path:audio"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/olds/include_old/DeltaProcessor.h",
+      "size_bytes": 1096,
+      "score": 3,
+      "reasons": [
+        "fname:delta",
+        "path:delta"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/olds/src_old/AudioIO.cpp",
+      "size_bytes": 811,
+      "score": 3,
+      "reasons": [
+        "fname:audio",
+        "path:audio"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/olds/src_old/DeltaProcessor.cpp",
+      "size_bytes": 1292,
+      "score": 3,
+      "reasons": [
+        "fname:delta",
+        "path:delta"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/olds/src_old/FFTProcessor.cpp",
+      "size_bytes": 1536,
+      "score": 3,
+      "reasons": [
+        "fname:fft",
+        "content:fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/AudioIO.cpp",
+      "size_bytes": 1354,
+      "score": 3,
+      "reasons": [
+        "fname:audio",
+        "path:audio"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/DeltaProcessor.cpp",
+      "size_bytes": 1403,
+      "score": 3,
+      "reasons": [
+        "fname:delta",
+        "path:delta"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/FFTProcessor.cpp",
+      "size_bytes": 797,
+      "score": 3,
+      "reasons": [
+        "fname:fft",
+        "content:fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/FeatureExtractor.cpp",
+      "size_bytes": 1529,
+      "score": 3,
+      "reasons": [
+        "content:dct,delta,fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/neon_4d_verr.txt",
+      "size_bytes": 46963,
+      "score": 3,
+      "reasons": [
+        "content:audio,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/neon_and_4d_data_stream_convolution.cpp",
+      "size_bytes": 33676,
+      "score": 3,
+      "reasons": [
+        "content:audio,fft,pcm"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/temp/hi-speed.txt",
+      "size_bytes": 50996,
+      "score": 3,
+      "reasons": [
+        "content:audio,entropy,fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/tests/test_AudioIO.cpp",
+      "size_bytes": 512,
+      "score": 3,
+      "reasons": [
+        "fname:audio",
+        "path:audio"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/benchmarking/benchmarking_2.txt",
+      "size_bytes": 2143,
+      "score": 2,
+      "reasons": [
+        "content:audio,codec"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/build_junk/how_to_prep_ml.txt",
+      "size_bytes": 7591,
+      "score": 2,
+      "reasons": [
+        "content:compression,delta"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/include/FFTProcessor.h",
+      "size_bytes": 456,
+      "score": 2,
+      "reasons": [
+        "fname:fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/olds/include_old/FFTProcessor.h",
+      "size_bytes": 454,
+      "score": 2,
+      "reasons": [
+        "fname:fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/olds/main_old.cpp",
+      "size_bytes": 5439,
+      "score": 2,
+      "reasons": [
+        "content:audio,delta"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/olds/src_old/FeatureExtractor.cpp",
+      "size_bytes": 10666,
+      "score": 2,
+      "reasons": [
+        "content:dct,fft"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/olds/src_old/main.cpp",
+      "size_bytes": 3316,
+      "score": 2,
+      "reasons": [
+        "content:audio,delta"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/how_to_prep_ml.txt",
+      "size_bytes": 7591,
+      "score": 2,
+      "reasons": [
+        "content:compression,delta"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/src/main.cpp",
+      "size_bytes": 3418,
+      "score": 2,
+      "reasons": [
+        "content:audio,delta"
+      ]
+    },
+    {
+      "relative_path": "hi-speed_stream_processing_for_ai_mini_devices/tests/test_FFTProcessor.cpp",
+      "size_bytes": 527,
+      "score": 2,
+      "reasons": [
+        "fname:fft"
+      ]
+    }
+  ]
+}

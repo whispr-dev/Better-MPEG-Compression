@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/code/hi-speed_stream_processing_for_ai_mini_devices/build/cmake_install.cmake",
+		"D:/code/hi-speed_stream_processing_for_ai_mini_devices/build/compression_prototype/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

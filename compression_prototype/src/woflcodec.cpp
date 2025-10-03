@@ -1,0 +1,12 @@
+// src/woflcodec.cpp
+#include "fft.hpp"
+#include "mdct.hpp"
+#include "bitio.hpp"
+#include "rice.hpp"
+#include "wav.hpp"
+#include "analysis.hpp"
+#include "psy.hpp"
+#include "bitstream.hpp"
+#include "parametric.hpp"
+#include "residual.hpp"
+#include "codebook.hpp"

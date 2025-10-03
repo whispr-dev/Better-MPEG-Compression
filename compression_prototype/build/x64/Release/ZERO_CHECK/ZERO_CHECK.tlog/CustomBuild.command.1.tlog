@@ -1,0 +1,10 @@
+^D:\CODE\BETTER-MPEG-COMPRESSION\COMPRESSION_PROTOTYPE\BUILD\CMAKEFILES\9FE940B4B3892E3D7F73088A51C266EF\GENERATE.STAMP.RULE
+setlocal
+C:\msys64\mingw64\bin\cmake.exe -SD:/code/Better-MPEG-Compression/compression_prototype -BD:/code/Better-MPEG-Compression/compression_prototype/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/code/Better-MPEG-Compression/compression_prototype/build/wofl_audio_codec.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

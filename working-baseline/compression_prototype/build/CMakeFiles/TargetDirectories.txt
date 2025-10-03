@@ -1,0 +1,5 @@
+D:/code/Better-MPEG-Compression/compression_prototype/build/CMakeFiles/woflcodec.dir
+D:/code/Better-MPEG-Compression/compression_prototype/build/CMakeFiles/encoder.dir
+D:/code/Better-MPEG-Compression/compression_prototype/build/CMakeFiles/decoder.dir
+D:/code/Better-MPEG-Compression/compression_prototype/build/CMakeFiles/ALL_BUILD.dir
+D:/code/Better-MPEG-Compression/compression_prototype/build/CMakeFiles/ZERO_CHECK.dir
