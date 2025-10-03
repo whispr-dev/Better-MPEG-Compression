@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\code\hi-speed_stream_processing_for_ai_mini_devices\compression_prototype\decoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\code\hi-speed_stream_processing_for_ai_mini_devices\compression_prototype\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D83086D4-0F87-30AE-8771-2143173CA444}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
